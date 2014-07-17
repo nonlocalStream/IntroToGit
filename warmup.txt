@@ -1,0 +1,10 @@
+Warmup:
+1.( ) The write way of counting apples?
+   A. 1, 2, 3, 4, 5, 6, ...
+   B. 0, 1, 2, 3, 4, 5, ...
+   C. 0, 1, 10, 11, 100, 101, ...
+
+2.( ) Your friends eat all of your apples. Now you have ____ apples.
+   A. 0
+   B. ZeroDivisionError 
+   C. 404 Not Found
