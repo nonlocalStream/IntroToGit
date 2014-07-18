@@ -3,17 +3,18 @@ IntroToGit
 
 A Brief Introduction to Git(ABC hackathon)
 
-What the heck is Git(hub)?
+What the hack is Git(hub)?
 
 Git is a source code management tool that allows you to manage your project repository, control its versions and collaborate with others.
 
-Let's start by setting up.
+** Let's start by setting up. **
+
 1.1 Sign up at https://github.com/
 
 1.2 Set up Git
 	Follow the intructions at https://help.github.com/articles/set-up-git
 
-Now let's download this repo to your local computer and run the magic!
+** Now let's download this repo to your local computer and run the magic! **
 
 2.1 "Fork" it:
 Press the "Fork" button at the top right corner of this page (https://github.com/nonlocalStream/IntroToGit)
@@ -60,7 +61,7 @@ Run:
 (Before, we only record the changes in our local computer. "Push" enables us to update the repo remotely on GitHub)
 (A figure about the relationship between add, commit and push)
 
-Pair with the person(people) next to you and work as a team.
+** Pair with the person(people) next to you and work as a team. **
 
 3.1 Add teammate's repo collaboraters:
 
@@ -79,5 +80,6 @@ Navigate to YOUR OWN repo, run:
 
 After a while, you can see your teammate's name inside "teammate" folder
 
-Others and Resources:
+** Others and Resources: **
+
 diff, branch, checkout, merge, stash, ...
